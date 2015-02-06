@@ -17,7 +17,7 @@
     }
   ],
   "peerDependencies": {
-    "child-module-2": "git://github.com/Raynos/child-module-2#v2.0.0"
+    "child-module-2": "^2.0.0"
   },
   "devDependencies": {
     "coveralls": "^2.10.0",
